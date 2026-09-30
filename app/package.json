@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@ai-sdk/google": "^4.0.86",
+    "@ai-sdk/react": "^4.0.126",
     "ai": "^7.0.123",
     "next": "16.3.7",
     "octokit": "^5.0.5",
